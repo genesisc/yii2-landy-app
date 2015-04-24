@@ -2,7 +2,7 @@
     "name": "genesisc/yii2-landy-app",
     "description": "Landy application template",
     "keywords": ["yii2", "landy", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "homepage": "http://www.genesis.kz/",
     "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
@@ -10,7 +10,8 @@
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
-        "yiisoft/yii2-swiftmailer": "*"
+        "yiisoft/yii2-swiftmailer": "*",
+		"genesisc/yii2-client-form": "*"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
